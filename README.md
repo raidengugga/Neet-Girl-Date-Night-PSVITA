@@ -4,7 +4,7 @@ This port was made using the Renpy PSVITA Dist Tool made by SonicMastr so big th
 Highly suggest you guys support her and check out her amazing art !
 The original game can be found here (https://hitsujigoods.itch.io/ngdn).
 Big thanks to the entire Neet Girl Date Night team for creating this game. 
-Livearea assets were also made by Hitsuji Goods. 
+Livearea assets were also made by Hitsuji Goods. Always thought it was fitting to port this game considering Kara mods psvitas lol
 
 
 ## Notes 
